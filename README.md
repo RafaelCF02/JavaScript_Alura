@@ -4,6 +4,10 @@
 
 Bem-vindo ao meu repositório "Javascript_Alura"! Aqui, compartilho minha jornada de Lógica de Programação em javaScript, documentando aulas e desafios do curso que estou cursando.
 
+## Projeto Final
+
+- [Projeto Final](https://jogodoadivinha.vercel.app/)
+
 ## Sobre o Repositório
 
 - `js-curso-2-aulas/`:  Este diretório contém minhas anotações e códigos das aulas do curso, organizados para fácil referência.
@@ -15,7 +19,7 @@ Bem-vindo ao meu repositório "Javascript_Alura"! Aqui, compartilho minha jornad
 
 ## Recursos Úteis
 
-- [Link para o curso](https://cursos.alura.com.br/): Coloque o link para o curso que estou fazendo.
+- [Link para o curso](https://cursos.alura.com.br/)
 - [Documentação JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript): Minha referência principal para a linguagem JavaScript.
 
 ## Contribuições
